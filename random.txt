@@ -1,2 +1,4 @@
 sla 
+na verdade sei sim<<<<<<< HEAD
 na verdade sei sim
+sim
