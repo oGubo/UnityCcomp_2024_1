@@ -1,4 +1,7 @@
 sla 
 na verdade sei sim<<<<<<< HEAD
+<<<<<<< HEAD
 na verdade sei sim
+=======
 sim
+>>>>>>> parent of 4754d5e (update random.txt)
